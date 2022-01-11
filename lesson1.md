@@ -97,10 +97,10 @@ When we think about writing documents there are a few common things we use to fo
 6. Numbered lists `1. Item`
 
 For each of these formattings we have a key character or series of characters that trigger that type
-of formatting. **Bold**, *Italic*, __Underlining__, ~~Strikethrough~~ each use a "wrapping" syntax
+of formatting. **Bold**, *Italic*, ~~Strikethrough~~ each use a "wrapping" syntax
 where the content you want to apply that format to is "wrapped" with the triggering symbol (`**`
-Bold, `*` Italic, `__` Underline, `~~` Striketrhough) at the beginning and end of the text to be
-styled that way. These can be *stacked* as well to generate combinations of the formatting, ie `__**` is __**Underlined Bold__**.
+Bold, `*` Italic, `~~` Striketrhough) at the beginning and end of the text to be
+styled that way. 
 
 ### Writing your first Markdown 
 
