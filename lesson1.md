@@ -56,6 +56,10 @@ where the content you want to apply that format to is "wrapped" with the trigger
 Bold, `*` Italic, `~~` Striketrhough) at the beginning and end of the text to be
 styled that way. 
 
+Note: In this lesson we're teaching you a particular type of Markdown called GitHub Flavored Markdown, please be aware that there are other types of Markdown that are slightly different in the wild.
+
+More info about [GitHub Flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
+
 ### Writing your first Markdown 
 
 FIXME - Exercise to write markdown and check its formatting. Possibly in GitHub?
