@@ -5,9 +5,9 @@ and Catalyst School community
 
 **Learning objectives:**
 
-1. Know where to find Cardano Jargon Resources
-1. Know Markdown is and how to write basic markdown?
-1. Know why we use GitHub, have a GitHub account and know a few GitHub terms?
+1. Know where to find resources that help navigate the Cardano communities and demystify jargon.
+1. Know Markdown is and how to write basic markdown. 
+1. Know why we use GitHub, have a GitHub account and know a few GitHub terms.
 
 ## Introduction 
 
@@ -39,19 +39,19 @@ Concepts -
 
 #### Cardano 
 
-FIXME - link to best resources about Cardano
+Cardano is a different kind of cryptocurrency community which puts people at the center of the creative process of creating positive change that is needed in the world. While Cardano does host and maintain a blockchain infrastructure, it also catalyzes and incentivizes groups of people to contribute to create the change they want to see in the world, fueled by proceeds from maintaining the blockchain. Learn more about what makes the Cardano community interestig at ["Discover Cardano"](https://cardano.org/discover-cardano/)
 
 #### ADA
 
-FIXME - Link to best resources on ADA
+Ada is the native token of Cardano and acts as a value-store and value-exchange mechanism on the Cardanon blockchain. ADA can be held in various [wallets]({{site.glossary}}/wallet). For more information see the Cardano page ["What is ADA"](https://cardano.org/what-is-ada/)
 
 #### Project Catalyst 
 
-FIXME - Link to best resources on Project Catalyst
+Project Catalyst is an experiment in creating, maintaining and operating a decentralized funding treasury that catalyzes innovation in the wider Cardano Communitty. More about [Project Catalyst](https://cardanocataly.st/) can be found in the community website. Periodically the Catalyst communtiy selects proposals to fund. In fact this lesson you're learning from was made possible through Project Catalyst funding to help community members learn about and become contributors to open source communtiies. 
 
 #### Catalyst School
 
-FIXME - Link to best resources on Catalyst School
+The Catalyst School is an international and multi-lingual project to help the diverse and global communities of Project Catalyst participants and Cardano enthusiasts to learn about and become capable contributros and leaders in the Catalyst and broader Cardano communities. You can learn more about the Catalyst School and learning opportunities at [their website](https://thecatalyst.school/)
 
 #### Community Governance Model/practices
 
