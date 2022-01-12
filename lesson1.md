@@ -11,7 +11,7 @@ and Catalyst School community
 
 ## Introduction 
 
-The open source community is full of different kinds of people, tools, and working practices.
+The open source community is full of different kinds of people, tools, and working practices. This can be very confusing when you're new as there are as many ways to do things as there are people in the community.
 Learning about a new community can be daunting, especially for large communities. This lesson will
 help learners who ware new to the Cardano Community begin to learn about how we use open source
 tools around the Catalyst project, and how you can become an active creator and contributor using
